@@ -1,0 +1,5 @@
+Program.
+
+1- take filename from an argument on the command line
+2- read file
+3- spit out number of e's it contains
